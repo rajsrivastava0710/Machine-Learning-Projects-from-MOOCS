@@ -1,1 +1,1 @@
-# Regression-Projects
+# Machine Learning Projects
